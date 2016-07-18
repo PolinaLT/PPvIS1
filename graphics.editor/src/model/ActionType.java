@@ -1,7 +1,0 @@
-package model;
-
-public enum ActionType {
-	PENCIL, ERASER, QUADRANGLE, CIRCLE, TEXT,
-	RECTANGLE_AREA, POLYGONAL_AREA, LOUPE2, LOUPE4,
-	INSERT, CUT
-}
